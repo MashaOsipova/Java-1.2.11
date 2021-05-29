@@ -1,3 +1,5 @@
+** При расчете бонуса результат меньше ожидаемого**
+
 **Материалы для тестирования**
 
 - [Домашнее задание](https://github.com/netology-code/javaqa-homeworks/blob/master/programming/README.md)
