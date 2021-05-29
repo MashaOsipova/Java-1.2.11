@@ -7,7 +7,7 @@
 **В результате тестирования выявлены следующие дефекты:**
 
 Ожидаемый результат не сходится с фактическим
-[Скриншот](https://docs.google.com/document/d/1sLm_1aGzX4uI610gckXF4g-qHoSw3XuF6Wk2A9Hqqj4/edit?usp=sharing)
+[Issue](https://github.com/MashaOsipova/Java-1.2.2/blob/8ceaa268f923515395200af446ac13ee0867d3b9/Issue.md)
 
 **В процессе тестирования использовались следующие артефакты:**
 
