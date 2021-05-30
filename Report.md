@@ -8,7 +8,7 @@
 
 Ожидаемый результат не сходится с фактическим
 
-[Issue]https://github.com/MashaOsipova/Java-1.2.2/issues/2#issue-807941750)
+[Issue](https://github.com/MashaOsipova/Java-1.2.2/issues/2#issue-807941750)
 
 **В процессе тестирования использовались следующие артефакты:**
 
